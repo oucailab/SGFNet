@@ -15,4 +15,5 @@ Multi-source remote sensing image classification has attracted increasing attent
 
 # 📟 Contact
 
-If you have any other questions, feel free to contact me at gaofeng@ouc.edu.cn .  
+If you have any other questions, feel free to contact us:
+gaofeng@ouc.edu.cn or stanley_zhao0113@outlook.com 
